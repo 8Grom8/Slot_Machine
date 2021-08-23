@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Slot_Machine/static/css/main.2f789dba.chunk.css",
+    "main.js": "/Slot_Machine/static/js/main.8a7b8b6c.chunk.js",
+    "main.js.map": "/Slot_Machine/static/js/main.8a7b8b6c.chunk.js.map",
+    "runtime-main.js": "/Slot_Machine/static/js/runtime-main.a5b9d08a.js",
+    "runtime-main.js.map": "/Slot_Machine/static/js/runtime-main.a5b9d08a.js.map",
+    "static/js/2.bca9f1c3.chunk.js": "/Slot_Machine/static/js/2.bca9f1c3.chunk.js",
+    "static/js/2.bca9f1c3.chunk.js.map": "/Slot_Machine/static/js/2.bca9f1c3.chunk.js.map",
+    "static/js/3.5c26fb8e.chunk.js": "/Slot_Machine/static/js/3.5c26fb8e.chunk.js",
+    "static/js/3.5c26fb8e.chunk.js.map": "/Slot_Machine/static/js/3.5c26fb8e.chunk.js.map",
+    "index.html": "/Slot_Machine/index.html",
+    "static/css/main.2f789dba.chunk.css.map": "/Slot_Machine/static/css/main.2f789dba.chunk.css.map",
+    "static/js/2.bca9f1c3.chunk.js.LICENSE.txt": "/Slot_Machine/static/js/2.bca9f1c3.chunk.js.LICENSE.txt",
+    "static/media/M00_000.614dfac0.jpg": "/Slot_Machine/static/media/M00_000.614dfac0.jpg",
+    "static/media/M01_000.7a46ee72.jpg": "/Slot_Machine/static/media/M01_000.7a46ee72.jpg",
+    "static/media/M02_000.9c1473a0.jpg": "/Slot_Machine/static/media/M02_000.9c1473a0.jpg",
+    "static/media/M03_000.bb464235.jpg": "/Slot_Machine/static/media/M03_000.bb464235.jpg",
+    "static/media/M04_000.7a3a7430.jpg": "/Slot_Machine/static/media/M04_000.7a3a7430.jpg",
+    "static/media/M05_000.213d7be1.jpg": "/Slot_Machine/static/media/M05_000.213d7be1.jpg",
+    "static/media/M06_000.f65a7035.jpg": "/Slot_Machine/static/media/M06_000.f65a7035.jpg",
+    "static/media/M07_000.1696bd70.jpg": "/Slot_Machine/static/media/M07_000.1696bd70.jpg",
+    "static/media/M08_000.493cb767.jpg": "/Slot_Machine/static/media/M08_000.493cb767.jpg",
+    "static/media/M09_000.c323429e.jpg": "/Slot_Machine/static/media/M09_000.c323429e.jpg",
+    "static/media/M10_000.ae627b98.jpg": "/Slot_Machine/static/media/M10_000.ae627b98.jpg",
+    "static/media/M11_000.1cc2727c.jpg": "/Slot_Machine/static/media/M11_000.1cc2727c.jpg",
+    "static/media/M12_000.d257d782.jpg": "/Slot_Machine/static/media/M12_000.d257d782.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5b9d08a.js",
+    "static/js/2.bca9f1c3.chunk.js",
+    "static/css/main.2f789dba.chunk.css",
+    "static/js/main.8a7b8b6c.chunk.js"
+  ]
+}
