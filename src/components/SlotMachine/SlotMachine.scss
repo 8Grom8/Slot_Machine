@@ -1,0 +1,33 @@
+.slot-result-item {
+  position: relative;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+
+  &-section {
+    position: absolute;
+    border: 3px solid black !important;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    background-color: grey;
+    border-radius: 2px;
+    border: 1px solid lightgrey;
+    cursor: default;
+    margin: 0;
+    align-items: center;
+  }
+
+  &-container {
+    position: absolute;
+    top: 2px;
+    width: 100%;
+    transition: top ease-in-out 0.5s;
+    text-align: center;
+
+  }
+}
+
+
+
+
